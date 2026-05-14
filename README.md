@@ -1,1 +1,2 @@
-## End to End Machine Learning Project
+## Civil engineering projects are complex and require careful planning and execution.
+In this project , we explore data from civil engineering projects to analyze potential safety and cost risks and even predict the risk level of a project. Our approach makes use of a mix of exploratory data analysis, visualization techniques and predictive modeling, all sprinkled with a dose of dry humor. Let's dive in.
